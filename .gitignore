@@ -1,0 +1,8 @@
+.DS_Store
+#*/.DS_Store
+#**/**.DS_Store
+bin/*
+gen/**
+ActionBarSherlock/bin/res/*
+ActionBarSherlock/bin/classes/*
+ActionBarSherlock/bin/AndroidManifest.xml
